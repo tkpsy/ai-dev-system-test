@@ -1,0 +1,6 @@
+{
+  "request_id": "req-daemon-test",
+  "parent_issue": 1,
+  "user_request": "workspace/hello.py というファイルに、'Hello World' を出力するPythonスクリプトを作成してください。",
+  "timestamp": "2025-11-22T22:50:00"
+}

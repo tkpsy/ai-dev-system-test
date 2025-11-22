@@ -1,0 +1,29 @@
+{
+  "task_id": "task-001",
+  "parent_request": "req-20251123-013430",
+  "title": "SwiftUI Hello Worldアプリ実装",
+  "description": "SwiftUIを使用したシンプルなHello Worldアプリを実装します。\n\n実装内容:\n- Xcodeプロジェクト設定ファイル（project.pbxproj）の作成\n- メインのAppファイル（HelloWorldApp.swift）の作成\n- ContentViewファイル（ContentView.swift）の作成\n- Assets.xcassetsディレクトリの作成\n- Info.plistの作成\n\n技術仕様:\n- iOS 15.0以上をターゲット\n- SwiftUIフレームワークを使用\n- 画面中央に「Hello, World!」テキストを表示\n- シンプルなプロジェクト構成（最小限のファイル数）",
+  "files_to_create": [
+    "workspace/HelloWorld/HelloWorld.xcodeproj/project.pbxproj",
+    "workspace/HelloWorld/HelloWorld/HelloWorldApp.swift",
+    "workspace/HelloWorld/HelloWorld/ContentView.swift",
+    "workspace/HelloWorld/HelloWorld/Assets.xcassets/Contents.json",
+    "workspace/HelloWorld/HelloWorld/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "workspace/HelloWorld/HelloWorld/Info.plist"
+  ],
+  "files_to_modify": [],
+  "acceptance_criteria": [
+    "Xcodeプロジェクトファイルが正しく生成されている",
+    "HelloWorldApp.swiftにSwiftUIのApp protocolを実装したメインエントリポイントが含まれている",
+    "ContentView.swiftに「Hello, World!」テキストを表示するViewが実装されている",
+    "プロジェクトがiOS 15.0以上をターゲットとしている",
+    "Assets.xcassetsディレクトリにAppIconの設定が含まれている",
+    "Info.plistに必要な設定が含まれている",
+    "Xcodeで開いてビルド・実行が可能"
+  ],
+  "worktree": {
+    "path": "worktrees/task-001",
+    "branch": "task/task-001"
+  },
+  "task_issue": 10
+}

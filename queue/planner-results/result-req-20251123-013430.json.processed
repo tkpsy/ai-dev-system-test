@@ -1,0 +1,14 @@
+{
+  "type": "planner_result",
+  "request_id": "req-20251123-013430",
+  "timestamp": "2025-11-23T01:35:00Z",
+  "status": "success",
+  "tasks": [
+    {
+      "task_id": "task-001",
+      "title": "SwiftUI Hello Worldアプリ実装",
+      "description": "SwiftUIを使用したシンプルなHello Worldアプリを実装します。\n\n実装内容:\n- Xcodeプロジェクト設定ファイル（project.pbxproj）の作成\n- メインのAppファイル（HelloWorldApp.swift）の作成\n- ContentViewファイル（ContentView.swift）の作成\n- Assets.xcassetsディレクトリの作成\n- Info.plistの作成\n\n技術仕様:\n- iOS 15.0以上をターゲット\n- SwiftUIフレームワークを使用\n- 画面中央に「Hello, World!」テキストを表示\n- シンプルなプロジェクト構成（最小限のファイル数）",
+      "task_file": "queue/tasks/task-task-001.json"
+    }
+  ]
+}

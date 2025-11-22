@@ -1,0 +1,16 @@
+{
+  "type": "planner_result",
+  "request_id": "req-daemon-test",
+  "parent_issue": 1,
+  "timestamp": "2025-11-22T22:50:00Z",
+  "status": "success",
+  "tasks": [
+    {
+      "task_id": "task-001",
+      "title": "Hello Worldスクリプト作成",
+      "description": "workspace/hello.py というファイルを作成し、'Hello World' を標準出力に出力するPythonスクリプトを実装する。\n\n実装内容:\n- print関数を使用して 'Hello World' を出力\n- シンプルで読みやすいコード\n- Python 3.x互換",
+      "task_file": "queue/tasks/task-task-001.json"
+    }
+  ],
+  "comment_to_parent": "📋 計画完了\n\n作成したタスク:\n- task-001 Hello Worldスクリプト作成\n\nworkspace/hello.py に 'Hello World' を出力するシンプルなPythonスクリプトを作成します。"
+}

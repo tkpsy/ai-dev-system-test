@@ -1,0 +1,14 @@
+{
+  "type": "planner_result",
+  "request_id": "req-20251122-231837",
+  "timestamp": "2025-11-22T23:18:45Z",
+  "status": "success",
+  "tasks": [
+    {
+      "task_id": "task-001",
+      "title": "README.mdファイルの作成",
+      "description": "workspace/ディレクトリにシンプルなREADME.mdファイルを作成します。ファイルには以下の内容を含めます:\n\n1. プロジェクト名のセクション（# 見出し）\n2. プロジェクトの説明セクション（## 見出し）\n3. 簡潔で分かりやすい内容\n\nマークダウン形式で記述し、基本的な構造を持つドキュメントとします。",
+      "task_file": "queue/tasks/task-task-001.json"
+    }
+  ]
+}
