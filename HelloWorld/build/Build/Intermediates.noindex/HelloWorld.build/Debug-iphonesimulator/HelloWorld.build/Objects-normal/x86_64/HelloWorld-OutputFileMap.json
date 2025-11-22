@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorld-primary.dia",
+    "emit-module-dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorld-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorld-primary-emit-module.dia",
+    "pch" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorld-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorld-primary.swiftdeps"
+  },
+  "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/HelloWorld/ContentView.swift" : {
+    "const-values" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/HelloWorld/HelloWorldApp.swift" : {
+    "const-values" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.swiftconstvalues",
+    "dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.d",
+    "diagnostics" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.dia",
+    "index-unit-output-path" : "/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.o",
+    "llvm-bc" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.bc",
+    "object" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.o",
+    "swift-dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp.swiftdeps",
+    "swiftmodule" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/HelloWorldApp~partial.swiftmodule"
+  },
+  "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-screenshot-001/HelloWorld/build/Build/Intermediates.noindex/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
