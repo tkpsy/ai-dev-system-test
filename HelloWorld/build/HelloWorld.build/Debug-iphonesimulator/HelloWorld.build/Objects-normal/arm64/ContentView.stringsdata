@@ -1,0 +1,16 @@
+{
+  "source": "/Users/tkpsy/ssss/dev/ai-dev-system-test/worktrees/task-001/HelloWorld/HelloWorld/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello World",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 5
+        }
+      }
+    ]
+  },
+  "version": 1
+}
