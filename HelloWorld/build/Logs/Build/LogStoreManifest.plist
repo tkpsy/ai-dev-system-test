@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F318260-B63E-40A6-B70A-EA4D74A9A4F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F318260-B63E-40A6-B70A-EA4D74A9A4F3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>785527924.314937</real>
+			<key>timeStoppedRecording</key>
+			<real>785527924.75308394</real>
+			<key>title</key>
+			<string>Cleaning project HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0F318260-B63E-40A6-B70A-EA4D74A9A4F3</string>
+		</dict>
+		<key>D7015749-CF0C-4105-894B-9BFE95708797</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7015749-CF0C-4105-894B-9BFE95708797.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>785531203.42307997</real>
+			<key>timeStoppedRecording</key>
+			<real>785531204.01654601</real>
+			<key>title</key>
+			<string>Cleaning project HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D7015749-CF0C-4105-894B-9BFE95708797</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
